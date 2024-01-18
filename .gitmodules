@@ -1,0 +1,3 @@
+[submodule "ars-magicka-5-ficha"]
+	path = ars-magicka-5-ficha
+	url = https://github.com/ggunterberg/ars-magicka-5-ficha.git
