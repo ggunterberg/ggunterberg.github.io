@@ -1,6 +1,3 @@
-[submodule "ars-magicka-5-ficha"]
-	path = ars-magicka-5-ficha
-	url = https://github.com/ggunterberg/ars-magicka-5-ficha.git
 [submodule "gerenciador-normas-laudos"]
 	path = gerenciador-normas-laudos
 	url = git@github.com:ggunterberg/gerenciador-normas-laudos.git
